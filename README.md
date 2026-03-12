@@ -3,4 +3,4 @@
 https://claude.com/resources/courses
 
 
-![skills](image.png)
+![skills](img/image.png)
