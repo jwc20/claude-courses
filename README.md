@@ -3,4 +3,4 @@
 https://claude.com/resources/courses
 
 
-![skills](img/image.png)
+![skills](img/introtoagentskills.png)
